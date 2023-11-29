@@ -152,7 +152,7 @@
 
 ## 🗺 아키텍처
 
-![아키텍처](https://github.com/psj98/Moeutto/assets/60167488/3d8b7f7b-c50f-442a-b85b-044548badfcf)
+![아키텍처](https://github.com/hannernos/Moeutto/assets/60167488/3d8b7f7b-c50f-442a-b85b-044548badfcf)
 
 <br/>
 
@@ -162,19 +162,16 @@
 
 <br/>
 
-## 📙 사용 예시
-
-1. 배포 주소 : [https://k9a604.p.ssafy.io](https://k9a604.p.ssafy.io)
-
-2. UCC 영상 : 추후 추가 예정
+## 📙 소개 영상
+![UCC](UCC/moetto.mp4)
 
 <br/>
 
 ## ⚙ 개발 설정
 
-1. 포팅 메뉴얼 : [포팅 메뉴얼](https://github.com/psj98/Moeutto/blob/develop/exec/%EB%B2%B5%EA%B0%88%ED%98%B8%EB%9E%91%EC%9D%B4_%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)
+1. 포팅 메뉴얼 : [포팅 메뉴얼](https://github.com/hannernos/Moeutto/blob/develop/exec/%EB%B2%B5%EA%B0%88%ED%98%B8%EB%9E%91%EC%9D%B4_%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)
 
-2. 데이터베이스 덤프 파일 : [데이터베이스 덤프 파일](https://github.com/psj98/Moeutto/blob/develop/exec/%EB%B2%B5%EA%B0%88%ED%98%B8%EB%9E%91%EC%9D%B4_%EB%8D%A4%ED%94%84%ED%8C%8C%EC%9D%BC.sql)
+2. 데이터베이스 덤프 파일 : [데이터베이스 덤프 파일](https://github.com/hannernos/Moeutto/blob/develop/exec/%EB%B2%B5%EA%B0%88%ED%98%B8%EB%9E%91%EC%9D%B4_%EB%8D%A4%ED%94%84%ED%8C%8C%EC%9D%BC.sql)
 
 <br/>
 
