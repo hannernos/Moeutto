@@ -15,6 +15,8 @@
 <br/>
 
 **모으또 (Moeutto)를 활용하여 옷장을 관리해보세요!!**
+## 📙 소개 영상
+![UCC](./UCC/moeutto.gif)
 
 <br/>
 
@@ -25,26 +27,23 @@
 | <p align="left">Backend <br> ML</p> | <p align="left">Backend</p> | <p align="left">Backend <br> Infra</p> | <p align="left">Backend</p> | <p align="left">Frontend</p> | <p align="left">Frontend</p> |
 | 옷 배경 제거, 카테고리 분류, 색상 분류<br><br>옷 날씨, 계절 적합도 점수 산정, AI 코멘트 생성, 옷 추천 및 평가 | 옷장 분석, 캘린더, 친구 API<br><br>소셜 로그인, 튜토리얼 페이지 | Kakao OAuth를 활용한 회원 관리<br><br>옷 등록, 빈도, 활용도에 따른 옷장 분석<br>AI 착장 검사 API<br>S3 Bucket API<br><br>CI/CD 구축 | 옷장, AI 착장 추천, 방명록<br>카테고리, 친구 착장 추천 API<br><br>의류 이미지 크롤링 | 메인 페이지<br>사용자 위치에 따른 날씨 업데이트<br><br>카테고리별 옷장 조회<br><br>캘린더<br><br>착장 검사<br><br>친구 착장 추천 | 옷장 등록, 분석<br><br>착장 검사<br><br>캘린더 등록<br><br>친구 검색, 친구 옷장 조회, 방명록 작성 |
 
+
+
 <br/>
 
-## 📅 프로젝트 일정
+## 🗺 아키텍처
 
-> 2023.10.09 ~ 2023.11.17 (6주)
-
-|주차|기간|설명|
-|:---|:---|:---|
-|1주차|`2023.10.09 ~ 2023.10.15`|주제 선정 및 토론|
-|2주차|`2023.08.28 ~ 2023.09.22`|세부 기획 선정<br>API 설계<br>ERD 설계<br>아키텍처 설계|
-|3주차|`2023.09.04 ~ 2023.09.29`|Front-End : 기본 틀 생성<br>Back-End : 핵심 기능 개발|
-|4주차|`2023.09.11 ~ 2023.09.05`|Front-End : 핵심 기능 개발<br>Back-End : 부가 기능 개발|
-|5주차|`2023.09.18 ~ 2023.09.12`|Front-End : 부가 기능 개발<br>Back-End : ML 연결 및 테스트|
-|6주차|`2023.09.25 ~ 2023.10.17`|개발 마무리<br>오류 확인 및 처리<br>최종 확인|
+![아키텍처](./imgs/architecture.png)
 
 <br/>
 
 ## 📚 기술 스택
 
-### Back-end & Front-end
+### ML
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/openai-412991.svg?&style=for-the-badge&logo=openai&logoColor=white)
+
+### Back-end
 
 ![Java](https://img.shields.io/badge/Java-yellow.svg?&style=for-the-badge&logo=java&logoColor=#3776AB)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -55,14 +54,11 @@
 ![JPA](https://img.shields.io/badge/JPA-6DB33F.svg?&style=for-the-badge&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?&logo=fastapi&style=for-the-badge&logoColor=white)
 
+### Front-end
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
-### AI & ML
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/openai-412991.svg?&style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logoColor=white)
 
 ### DataBase
 
@@ -73,8 +69,6 @@
 ![Amazon S3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ### AWS Server
 ![Amazon EC2](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![SageMaker](https://img.shields.io/badge/sagemaker-FF9900?style=for-the-badge&logoColor=white)
-
 
 ### CI/CD & Infra Tools
 
@@ -137,22 +131,22 @@
 
 <br/>
 
-## 🗺 아키텍처
 
-![아키텍처](./imgs/architecture.png)
 
-<br/>
-
-## 📙 소개 영상
-![UCC](./UCC/moeutto.gif)
 
 <br/>
 
-## ⚙ 개발 설정
+## 📅 번다운 차트
+![1week](./imgs/burndown-charts/1.png)
+![2week](./imgs/burndown-charts/2.png)
+![3week](./imgs/burndown-charts/3.png)
+![4week](./imgs/burndown-charts/4.png)
+![5week](./imgs/burndown-charts/5.png)
+![6week](./imgs/burndown-charts/6.png)
+<br/>
+
+## ⚙ 설정
 
 1. [포팅 메뉴얼](https://github.com/hannernos/Moeutto/blob/develop/exec/%EB%B2%B5%EA%B0%88%ED%98%B8%EB%9E%91%EC%9D%B4_%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)
 
 2. [데이터베이스 덤프 파일](https://github.com/hannernos/Moeutto/blob/develop/exec/%EB%B2%B5%EA%B0%88%ED%98%B8%EB%9E%91%EC%9D%B4_%EB%8D%A4%ED%94%84%ED%8C%8C%EC%9D%BC.sql)
-
-<br/>
-
