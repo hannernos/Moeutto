@@ -19,12 +19,11 @@
 <br/>
 
 ## 👨‍💻 팀원 소개
-
-| **강한(PM**) | **권현우** | **김동현** | **박성준** | **고서영** | **김솔** |
+| <a href="https://github.com/hannernos"><img src="https://avatars.githubusercontent.com/u/82031197?v=4?s=100" width="100px;" alt=""/><br /></a> | <a href="https://github.com/27kanghan"><img src="https://avatars.githubusercontent.com/u/58686114?v=4?s=100" width="100px;" alt=""/><br /></a> | <a href="https://github.com/pohangman"><img src="https://avatars.githubusercontent.com/u/90905159?v=4?s=100" width="100px;" alt=""/><br /></a> | <a href="https://github.com/psj98"><img src="https://avatars.githubusercontent.com/u/60167488?v=4?s=100" width="100px;" alt=""/><br /></a> | <a href="https://github.com/seoyoung81"><img src="https://avatars.githubusercontent.com/u/122508505?v=4?s=100" width="100px;" alt=""/><br /></a> | <a href="https://github.com/s01k1m618"><img src="https://avatars.githubusercontent.com/u/121751626?v=4?s=100" width="100px;" alt=""/><br /></a> |
 | --- | --- | --- | --- | --- | --- |
-| <p align="left" style="color:skyblue">Backend</p> | <p align="left" style="color:skyblue">Backend <br> Infra</p> | <p align="left" style="color:skyblue">Backend <br> ML | <p align="left" style="color:skyblue">Backend</p> | <p align="left" style="color:pink">Frontend</p>         | <p align="left" style="color:pink">Frontend</p>   |
-| 가격, 빈도에 따른 옷장 분석, 캘린더, 친구 API<br><br>소셜 로그인, 튜토리얼 페이지|Kakao OAuth를 활용한 회원 관리<br><br>옷 등록, 빈도, 활용도에 따른 옷장 분석, AI 착장 검사 API<br>S3 Bucket API<br><br>CI/CD 구축 | 옷 배경 제거<br>카테고리 및 색상 분류<br><br>적합도 점수 산정<br>AI 코멘트 생성<br><br>옷 추천 및 평가 | 옷장, AI 착장 추천, 방명록, 카테고리, 친구 착장 추천 API<br><br>bs4와 mulitprocess를 이용한 의류 이미지 크롤링 | 메인 페이지<br>사용자 위치에 따른 날씨 업데이트<br><br>카테고리별 옷장 조회<br><br>캘린더<br><br>착장 검사<br><br>친구 착장 추천 | 옷장 등록, 분석<br><br>착장 검사<br><br>캘린더 등록<br><br>친구 검색, 친구 옷장 조회, 방명록 작성|
-| [@27kanghan](https://github.com/27kanghan) | [@mycodeisnoob](https://github.com/mycodeisnoob) | [@hannernos](https://github.com/hannernos) | [@psj98](https://github.com/psj98) | [@seoyoung81](https://github.com/seoyoung81) |  [@s01k1m618](https://github.com/s01k1m618) |
+| **김동현** | **강한** | **권현우** | **박성준** | **고서영** | **김솔** |
+| <p align="left" >Backend <br> ML</p> | <p align="left">Backend</p> | <p align="left">Backend <br> Infra</p> | <p align="left">Backend</p> | <p align="left">Frontend</p> | <p align="left">Frontend</p> |
+| 옷 배경 제거<br>카테고리 및 색상 분류<br><br>적합도 점수 산정<br>AI 코멘트 생성<br><br>옷 추천 및 평가 | 가격, 빈도에 따른 옷장 분석, 캘린더, 친구 API<br><br>소셜 로그인, 튜토리얼 페이지 | Kakao OAuth를 활용한 회원 관리<br><br>옷 등록, 빈도, 활용도에 따른 옷장 분석, AI 착장 검사 API<br>S3 Bucket API<br><br>CI/CD 구축 | 옷장, AI 착장 추천, 방명록, 카테고리, 친구 착장 추천 API<br><br>bs4와 mulitprocess를 이용한 의류 이미지 크롤링 | 메인 페이지<br>사용자 위치에 따른 날씨 업데이트<br><br>카테고리별 옷장 조회<br><br>캘린더<br><br>착장 검사<br><br>친구 착장 추천 | 옷장 등록, 분석<br><br>착장 검사<br><br>캘린더 등록<br><br>친구 검색, 친구 옷장 조회, 방명록 작성 |
 
 <br/>
 
